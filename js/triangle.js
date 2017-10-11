@@ -12,3 +12,9 @@ checkType() {
     }
   }
 };
+
+
+
+import { Triangle} from './../js/triangle.js';
+
+//  Rectangle, Circle add this if multiple classes 
